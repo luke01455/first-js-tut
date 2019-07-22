@@ -14,8 +14,8 @@ var job;
 console.log(job);
 /*
 
-
-job = 'teacher';
+// testing git
+job = 'teacher and mother ofc';
 console.log(job);
 
 */
