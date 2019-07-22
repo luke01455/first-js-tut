@@ -34,7 +34,7 @@ console.log(firstName + ' is a ' + age + ' year old ' + job  + '. is he married?
 
 // Variable mutation
 age  = 'twenty eight';
-job = 'driver';
+job = 'driver and hustler';
 
 alert(firstName + ' is a ' + age + ' year old ' + job  + '. is he married? ' + isMarried);
 
